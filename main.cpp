@@ -3,7 +3,6 @@
 #include <filesystem>
 #include "commands.h"
 #include "tokenizer.h"
-#include "utils.h"
 
 
 int main() {
